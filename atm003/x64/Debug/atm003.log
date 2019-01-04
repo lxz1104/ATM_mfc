@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  atm003.cpp
+  atm003Dlg.cpp
+  ATM_admin.cpp
+  ATM_Base.cpp
+  ATM_main_menu.cpp
+  ChPasswd.cpp
+  GuaShi.cpp
+  Notice.cpp
+  Report.cpp
+  SaveMoney.cpp
+  ShowMessage.cpp
+  WithdrawMoney.cpp
+c:\users\longx\desktop\mfc\atm003\withdrawmoney.cpp(124): warning C4244: “参数”: 从“float”转换到“uint”，可能丢失数据
+c:\users\longx\desktop\mfc\atm003\withdrawmoney.cpp(124): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+  正在生成代码...
+  atm003.vcxproj -> C:\Users\longx\Desktop\mfc\x64\Debug\atm003.exe
